@@ -1,6 +1,6 @@
 import random 
 
-d = "Dog Gif"
+
 dog=[
 "http://i.imgur.com/vYuYhRv.gif",
 "http://i.imgur.com/mJRa4GD.gif",
